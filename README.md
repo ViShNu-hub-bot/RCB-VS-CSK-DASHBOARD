@@ -19,7 +19,9 @@ This dashboard project aims to provide cricket enthusiasts and data enthusiasts 
 - **Preview Image:** Provides a visual preview of the dashboard.
 
 ## Preview Image
-![Dashboard Preview](preview_image.png)
+![Dashboard Preview](Screenshot%20(123).png)
+
+
 
 ## Getting Started
 To explore the dashboard:
